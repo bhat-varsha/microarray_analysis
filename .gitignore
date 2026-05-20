@@ -1,0 +1,14 @@
+# Raw data — too large, available on GEO
+GSE233849_RAW/
+*.tar
+*.CEL
+*.cel
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
